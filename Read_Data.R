@@ -9,6 +9,3 @@ US <- read.csv("us.csv")
 
 # change working directory back to the main directory 
 setwd(projdir)
-
-##then do file save as readdata
-## then go to gitkraken and stage the changes and push up 
